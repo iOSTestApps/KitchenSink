@@ -22,7 +22,7 @@
 		<key>9BA1C25A969B62FBD5F5EB763BE49D613DB7A089</key>
 		<string>../..</string>
 		<key>D3239580941E345AB636F3B382D35AC2CB008F45</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:iOSTestApps/KitchenSink.git</string>
@@ -38,7 +38,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>D3239580941E345AB636F3B382D35AC2CB008F45</string>
 			<key>IDESourceControlWCCName</key>
-			<string>..</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
